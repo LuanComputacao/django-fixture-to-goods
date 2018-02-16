@@ -1,0 +1,1 @@
+# django-fixture-to-goods
